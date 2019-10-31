@@ -3,7 +3,7 @@
 In this project we use rest-client gem in order to get search engine result. We build site’s static pages.
 
 ## To run this script use:
-$ ruby app/script/rest_requestor.rb
+$ ruby app/script/rest_request.rb
 
 ## Rest Client Link
 
