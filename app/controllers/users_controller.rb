@@ -1,19 +1,19 @@
 class UsersController < ApplicationController
 
     def index
-        @name = "I am the index action!"
+        @name = "You are on the index page!"
     end
 
     def show
-        @name = "I am the show action!"
+        @name = "You are on the show page!"
     end
 
     def new
-        @name = "I am the new action!"
+        @name = "You are on the new page!"
     end
 
     def edit
-        @name = "I am the edit action!"
+        @name = "You are on the edit page!"
     end
 
     def create
