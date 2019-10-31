@@ -1,24 +1,20 @@
-# README
+## Let's Get Building
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+In this project we use rest-client gem in order to get search engine result. We build site’s static pages.
 
-Things you may want to cover:
+## To run this script use:
+$ ruby app/script/rest_requestor.rb
 
-* Ruby version
+## Rest Client Link
 
-* System dependencies
+<a href="https://github.com/rest-client/rest-client">Link to the Rest Client Repo</a>
 
-* Configuration
+## Tecnologies
 
-* Database creation
+* Ruby
+* Ruby on Rails
 
-* Database initialization
+## Authors - click on the link below to see the authors' github
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* <a href="https://github.com/rmauritsson"> Github: Leonard Rwai Kanyesigye</a>
+* <a href="https://github.com/SofiBretz">Github: Sofia Barrantes</a>
